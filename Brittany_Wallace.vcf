@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Brittany Wallace
+N:Wallace;Brittany;;;
+TITLE:Front-End Web Designer | Graphic Designer
+EMAIL;TYPE=INTERNET:wallacebl20@gmail.com
+TEL;TYPE=CELL:509-322-5086
+URL:bwallace11.github.io
+X-SOCIALPROFILE;TYPE=github:https://github.com/bwallace11
+ADR;TYPE=WORK:;;22605 E Broad Ave;Otis Orchards;;United States
+END:VCARD
